@@ -18,6 +18,6 @@ The Main Goal: The Development must follow Test-Driven-Development principles.
 And finally, with Travis CI, we want to check the coverage of our test suite. 
 
 
-[![Build Status](https://travis-ci.org/mtfische/Week3LabTDD.svg?branch=TDD)](https://travis-ci.org/mtfische/Week3LabTDD)
+[![Build Status](https://travis-ci.org/mtfische/Week3LabTDD.svg?branch=master)](https://travis-ci.org/mtfische/Week3LabTDD)
 [![codecov](https://codecov.io/gh/mtfische/Week3LabTDD/branch/master/graph/badge.svg)](https://codecov.io/gh/mtfische/Week3LabTDD)
 
